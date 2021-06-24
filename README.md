@@ -6,7 +6,7 @@
 😄 Pronouns: (she/her)
 
 Hello there! 👋
-My name is Katia Wheeler and I'm a Software Developer based in Kansas City. I have over five years experience building SaaS applications utilizing React and .NET, as well as a few other frameworks. I am always eager to learn and have a passion for teaching and mentorship.
+My name is Katia Wheeler and I'm a Sr. Software Developer. I have over five years experience building SaaS applications utilizing React and .NET, as well as a few other frameworks. I am always eager to learn and have a passion for teaching and mentorship.
 
 When I'm not at my computer developing, I'm either playing a video game, drinking coffee, or hanging out with my family.
 
