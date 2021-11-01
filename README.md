@@ -6,7 +6,7 @@
 😄 Pronouns: (she/her)
 
 Hello there! 👋
-My name is Katia Wheeler and I'm a Sr. Software Developer. I have over five years experience building SaaS applications utilizing React and .NET, as well as a few other frameworks. I am always eager to learn and have a passion for teaching and mentorship.
+My name is Katia Wheeler and I'm a Senior Developer currently on the Shopify rocket ship 🚀. I have extensive experience building both web apps with React and mobile apps with React Native. I am always eager to learn and have a passion for teaching and mentorship.
 
 When I'm not at my computer developing, I'm either playing a video game, drinking coffee, or hanging out with my family.
 
@@ -42,53 +42,12 @@ Please feel free to reach out at any of my social accounts! I'm always happy to 
 # 💼 Skills
 
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Code-Apollo-informational?style=flat&logo=Apollo-GraphQL&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4183c4)
-
-
-
-<details>
-<summary>More Skills</summary>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=4183c4)
-
-<br>
-
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Test-Testing_Library-informational?style=flat&logo=Testing-Library&logoColor=white&color=4183c4)
-
-<br>
-
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=4183c4)
-
-<br>
-
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=4183c4)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=git&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-Azure_DevOps-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-Azure_Pipelines-informational?style=flat&logo=Azure-Pipelines&logoColor=white&color=4183c4)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4183c4)
-
-
-</details>
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=4183c4)
+![](https://img.shields.io/badge/React_Native-informational?style=flat&logo=react&logoColor=white&color=4183c4)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=4183c4)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4183c4)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4183c4)
+![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4183c4)
+![](https://img.shields.io/badge/Apollo-informational?style=flat&logo=Apollo-GraphQL&logoColor=white&color=4183c4)
+![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=4183c4)
+![](https://img.shields.io/badge/.NET-informational?style=flat&logo=.net&logoColor=white&color=4183c4)
